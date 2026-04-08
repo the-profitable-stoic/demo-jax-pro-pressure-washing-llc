@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-jax-pro-pressure-washing-llc.dream-surge.com/sitemap-index.xml

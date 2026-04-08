@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Jax Pro Pressure Washing, LLC",
+    "phone": "+19043351554",
+    "category": "power washing",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "power-washing-dark-premium",
+      "categoryGroup": "power-washing",
+      "name": "Dark Premium",
+      "recipeFile": "power-washing/dark-premium.astro",
+      "colors": {
+        "primary": "#7DD3FC",
+        "primaryDark": "#64a9ca",
+        "primaryLight": "#cbedfe",
+        "secondary": "#2A2A2A",
+        "accent": "#91dafc",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "power-washing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Jax Pro: Revitalize Your Home",
+      "heroSubline": "Expert power washing services in Jacksonville and surrounding areas. Restore your property's beauty and value with our proven cleaning solutions.",
+      "aboutTitle": "Your Local Power Washing Experts",
+      "aboutText": [
+        "Jax Pro Pressure Washing was founded over a decade ago with a simple mission: to provide Jacksonville homeowners with reliable, high-quality exterior cleaning services. We’re a family-owned and operated business, deeply rooted in this community.",
+        "We believe in doing things right the first time. Our team uses professional-grade equipment and eco-friendly cleaning solutions to deliver exceptional results without damaging your property or harming the environment. We focus on attention to detail, ensuring every surface is thoroughly cleaned.",
+        "We're committed to giving back to the community that has supported us. Jax Pro proudly sponsors local youth sports teams and participates in neighborhood clean-up initiatives. We believe a clean community is a thriving community."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience tackling even the toughest cleaning challenges."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "We use biodegradable detergents that are safe for your family, pets, and landscaping."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not happy, we'll make it right."
+        },
+        {
+          "title": "Fully Insured",
+          "description": "Protecting your property is our priority. We are fully insured for your peace of mind."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today!",
+      "ctaSubline": "Transform your home's appearance with our professional power washing services. Contact us for a fast, no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Safely and effectively remove dirt, grime, and mildew from your home's exterior.",
+        "description": "Our house washing service is designed to gently yet effectively remove years of built-up dirt, algae, mold, and mildew from your home's siding. We use a soft washing technique, which combines low-pressure water with specialized cleaning solutions to safely clean all types of exterior surfaces, including vinyl, brick, stucco, and wood. This process is far less likely to cause damage than traditional high-pressure power washing, especially important with the older homes found in Riverside and Avondale. \n\nOur cleaning solutions are biodegradable and eco-friendly, ensuring the safety of your landscaping, pets, and family. We pay close attention to detail, ensuring every nook and cranny is thoroughly cleaned, from the gutters to the foundation. Regular house washing not only improves your home's curb appeal but also helps to prevent costly damage caused by mold and mildew growth, especially crucial in Jacksonville's humid climate.",
+        "process": [
+          "Step 1: Assessment of your home's exterior and identification of any problem areas.",
+          "Step 2: Application of our eco-friendly cleaning solution using a soft washing technique.",
+          "Step 3: Gentle rinsing with low-pressure water to remove dirt and grime.",
+          "Step 4: Final inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Protection against mold and mildew growth",
+          "Increased property value",
+          "Safe and effective cleaning process"
+        ],
+        "faq": [
+          {
+            "question": "What is soft washing?",
+            "answer": "Soft washing is a low-pressure cleaning method that uses specialized cleaning solutions to safely remove dirt, algae, and mildew from exterior surfaces. It's a gentler alternative to traditional power washing and is ideal for delicate surfaces like vinyl siding and stucco."
+          },
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to maintain its appearance and prevent damage from mold and mildew, especially in Jacksonville's humid climate. Homes near the beach may require more frequent cleaning due to salt air corrosion."
+          },
+          {
+            "question": "Are your cleaning solutions safe for my landscaping?",
+            "answer": "Yes, we use biodegradable and eco-friendly cleaning solutions that are safe for your plants, pets, and family. We take extra precautions to protect your landscaping during the cleaning process."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Remove oil stains, dirt, and grime from your driveway and sidewalks.",
+        "description": "A dirty driveway can significantly detract from your home's curb appeal. Our driveway cleaning service uses high-pressure power washing to remove stubborn oil stains, dirt, grime, and algae from concrete, brick, and paver driveways. We pre-treat heavily stained areas with a degreasing solution to ensure optimal results. Our powerful equipment and experienced technicians can restore your driveway to its original clean condition. We take care to protect surrounding landscaping and surfaces during the cleaning process. \n\nGiven the prevalence of ranch-style homes in areas like Orange Park, maintaining a clean driveway is key. We also offer sealing services to protect your driveway from future stains and damage. Sealing helps to prevent water penetration, which can lead to cracking and crumbling, especially during Jacksonville's occasional freezes.",
+        "process": [
+          "Step 1: Inspection of the driveway and identification of stained areas.",
+          "Step 2: Pre-treatment of heavily stained areas with a degreasing solution.",
+          "Step 3: High-pressure power washing to remove dirt, grime, and stains.",
+          "Step 4: Rinsing and final inspection."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Removal of stubborn stains",
+          "Prevention of future damage",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How effective is power washing for oil stains?",
+            "answer": "Power washing is highly effective for removing oil stains, especially when combined with a degreasing solution. We use professional-grade equipment and techniques to ensure optimal results."
+          },
+          {
+            "question": "Will power washing damage my driveway?",
+            "answer": "When done correctly, power washing will not damage your driveway. Our experienced technicians use the appropriate pressure and techniques for different types of surfaces to prevent damage."
+          },
+          {
+            "question": "Do you offer sealing services for driveways?",
+            "answer": "Yes, we offer sealing services to protect your driveway from future stains and damage. Sealing helps to prevent water penetration and prolong the life of your driveway."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Safely remove algae, moss, and lichen from your roof to extend its lifespan.",
+        "description": "A dirty roof not only looks unsightly but can also cause significant damage over time. Algae, moss, and lichen can trap moisture, leading to rot and decay. Our roof cleaning service uses a soft washing technique to safely remove these contaminants without damaging your roof shingles. We use specialized cleaning solutions that kill the algae and moss at their roots, preventing future growth. \n\nJacksonville's humid climate is particularly conducive to algae growth on roofs. Regular roof cleaning can significantly extend the lifespan of your roof and prevent costly repairs. We are experienced in cleaning all types of roofs, including asphalt shingles, tile, and metal roofs. We take extra precautions to protect your landscaping and gutters during the cleaning process. For historic homes in areas like Riverside, preserving the integrity of the roof is especially important.",
+        "process": [
+          "Step 1: Inspection of the roof and identification of areas with algae, moss, or lichen growth.",
+          "Step 2: Application of our specialized cleaning solution using a soft washing technique.",
+          "Step 3: Allowing the solution to dwell and kill the algae and moss at their roots.",
+          "Step 4: Gentle rinsing to remove the dead algae and moss."
+        ],
+        "benefits": [
+          "Extended roof lifespan",
+          "Improved curb appeal",
+          "Prevention of costly repairs",
+          "Safe and effective cleaning process"
+        ],
+        "faq": [
+          {
+            "question": "Will roof cleaning damage my shingles?",
+            "answer": "No, our soft washing technique is designed to safely clean your roof without damaging the shingles. We use low pressure and specialized cleaning solutions to prevent damage."
+          },
+          {
+            "question": "How often should I have my roof cleaned?",
+            "answer": "We recommend having your roof cleaned every 2-3 years to prevent algae and moss growth. Jacksonville's humid climate increases the risk of growth."
+          },
+          {
+            "question": "Is roof cleaning safe for my landscaping?",
+            "answer": "Yes, we take extra precautions to protect your landscaping during the roof cleaning process. We use tarps and other protective measures to prevent damage."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-cleaning",
+        "name": "Deck & Patio Cleaning",
+        "shortDescription": "Restore your deck and patio to their original beauty with our professional cleaning services.",
+        "description": "Decks and patios are often the center of outdoor living, but they can quickly become stained and dirty from exposure to the elements. Our deck and patio cleaning service uses a combination of power washing and specialized cleaning solutions to remove dirt, grime, algae, and mildew. We are experienced in cleaning all types of decks and patios, including wood, composite, and concrete. We take care to protect your landscaping and outdoor furniture during the cleaning process. \n\nRegular deck and patio cleaning can significantly extend the lifespan of your outdoor living spaces and prevent costly repairs. Salt air can be particularly damaging to decks and patios near Jacksonville Beach, making regular cleaning essential. We also offer sealing and staining services to protect your deck from future damage and enhance its appearance.",
+        "process": [
+          "Step 1: Inspection of the deck or patio and identification of areas with dirt, grime, or algae.",
+          "Step 2: Application of our specialized cleaning solution.",
+          "Step 3: Power washing to remove the dirt, grime, and algae.",
+          "Step 4: Rinsing and final inspection."
+        ],
+        "benefits": [
+          "Improved appearance of your deck and patio",
+          "Extended lifespan of your outdoor living spaces",
+          "Prevention of costly repairs",
+          "Safe and effective cleaning process"
+        ],
+        "faq": [
+          {
+            "question": "Will power washing damage my wood deck?",
+            "answer": "When done correctly, power washing will not damage your wood deck. Our experienced technicians use the appropriate pressure and techniques to prevent damage. We can also use a soft washing method for delicate wood decks."
+          },
+          {
+            "question": "Do you offer sealing and staining services for decks?",
+            "answer": "Yes, we offer sealing and staining services to protect your deck from future damage and enhance its appearance."
+          },
+          {
+            "question": "How often should I have my deck or patio cleaned?",
+            "answer": "We recommend having your deck or patio cleaned every 1-2 years to maintain its appearance and prevent damage from algae and mildew."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Remove dirt, grime, and algae from your fence to restore its appearance.",
+        "description": "A clean fence enhances your property's curb appeal and protects its integrity. Our fence cleaning service removes dirt, grime, algae, and mildew from all types of fences, including wood, vinyl, and metal. We use specialized cleaning solutions and power washing techniques to safely and effectively clean your fence without causing damage. Jacksonville's humid climate promotes algae and mildew growth, making regular fence cleaning essential. We pay close attention to detail, ensuring every section of your fence is thoroughly cleaned. For homes in historic neighborhoods like San Marco, maintaining the appearance of the fence is crucial for preserving the neighborhood's character.",
+        "process": [
+          "Step 1: Inspection of the fence and identification of areas with dirt, grime, or algae.",
+          "Step 2: Application of our specialized cleaning solution.",
+          "Step 3: Power washing to remove the dirt, grime, and algae.",
+          "Step 4: Rinsing and final inspection."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Extended fence lifespan",
+          "Removal of unsightly dirt and grime",
+          "Safe and effective cleaning process"
+        ],
+        "faq": [
+          {
+            "question": "Will power washing damage my wood fence?",
+            "answer": "When done correctly, power washing will not damage your wood fence. Our experienced technicians use the appropriate pressure and techniques to prevent damage. We can also use a soft washing method for delicate wood fences."
+          },
+          {
+            "question": "Is fence cleaning safe for my landscaping?",
+            "answer": "Yes, we take extra precautions to protect your landscaping during the fence cleaning process. We use tarps and other protective measures to prevent damage."
+          },
+          {
+            "question": "How often should I have my fence cleaned?",
+            "answer": "We recommend having your fence cleaned every 1-2 years to maintain its appearance and prevent damage from algae and mildew."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Remove leaves and debris from your gutters to prevent water damage.",
+        "description": "Clogged gutters can lead to water damage to your roof, siding, and foundation. Our gutter cleaning service removes leaves, debris, and other obstructions from your gutters to ensure proper water flow. We also inspect your gutters for any damage and recommend necessary repairs. Regular gutter cleaning is essential for preventing costly water damage, especially during Jacksonville's heavy rainfall seasons. We are experienced in cleaning all types of gutters, including aluminum, vinyl, and copper gutters. We take extra precautions to protect your landscaping during the cleaning process. For areas like Ponte Vedra, where homes are often larger and have more extensive landscaping, gutter cleaning is particularly important.",
+        "process": [
+          "Step 1: Removal of leaves and debris from the gutters.",
+          "Step 2: Flushing the gutters and downspouts to ensure proper water flow.",
+          "Step 3: Inspection of the gutters for any damage.",
+          "Step 4: Recommendation of necessary repairs."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Extended gutter lifespan",
+          "Improved drainage",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, especially in the spring and fall, to prevent clogs from leaves and debris."
+          },
+          {
+            "question": "What are the signs of clogged gutters?",
+            "answer": "Signs of clogged gutters include water overflowing from the gutters, sagging gutters, and water stains on your siding."
+          },
+          {
+            "question": "Will gutter cleaning damage my landscaping?",
+            "answer": "No, we take extra precautions to protect your landscaping during the gutter cleaning process. We use tarps and other protective measures to prevent damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Augustine",
+        "slug": "st-augustine-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is proud to offer our professional pressure washing services to the historic city of St. Augustine, Florida. With its unique Spanish Colonial architecture and charming atmosphere, St. Augustine requires a delicate touch when it comes to exterior cleaning. We understand the importance of preserving the beauty of your home or business while effectively removing dirt, grime, and mildew. \n\nOur experienced technicians use state-of-the-art equipment and eco-friendly cleaning solutions to safely and effectively clean a variety of surfaces, including stucco, brick, wood, and concrete. From historic homes to modern businesses, we have the expertise to handle any pressure washing project in St. Augustine. We are committed to providing exceptional service and ensuring your complete satisfaction. Let Jax Pro Pressure Washing, LLC help you keep your St. Augustine property looking its best.",
+        "localContext": "St. Augustine's historic Spanish Colonial architecture requires gentle and effective cleaning methods to preserve its beauty, especially given the hot, humid summers.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Palm Coast",
+          "Fruit Cove"
+        ]
+      },
+      {
+        "city": "Orange Park",
+        "slug": "orange-park-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is your trusted source for professional pressure washing services in Orange Park, Florida. Known for its established neighborhoods and diverse community, Orange Park homes often feature a mix of siding, brick, and concrete surfaces that require specialized cleaning techniques.\n\nWe understand the specific needs of Orange Park residents and businesses. Our team uses the latest equipment and environmentally friendly solutions to safely and effectively remove dirt, algae, and other unsightly stains from your property's exterior. We offer a range of services, including house washing, driveway cleaning, patio cleaning, and more. Let Jax Pro Pressure Washing, LLC help you maintain the curb appeal of your Orange Park home or business.",
+        "localContext": "Orange Park's prevalence of 1970s-80s suburban ranch homes means we are experienced in cleaning various types of siding and concrete driveways common to the area, particularly after hot, humid summers.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Middleburg",
+          "Bellair-Meadowbrook Terrace"
+        ]
+      },
+      {
+        "city": "Jacksonville",
+        "slug": "jacksonville-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is Jacksonville's leading provider of professional pressure washing services. As the largest city in Florida, Jacksonville presents a diverse range of cleaning challenges, from residential homes to commercial properties. We are equipped to handle any job, big or small.\n\nOur experienced technicians use state-of-the-art equipment and eco-friendly cleaning solutions to deliver exceptional results. We offer a comprehensive range of services, including house washing, roof cleaning, deck cleaning, and more. Whether you need to remove dirt, grime, algae, or mildew, we have the expertise to get the job done right. Trust Jax Pro Pressure Washing, LLC to keep your Jacksonville property looking its best.",
+        "localContext": "Jacksonville's large size and diverse neighborhoods require a pressure washing service that is adaptable and experienced in handling a wide range of property types and cleaning needs.",
+        "nearbyAreas": [
+          "Orange Park",
+          "St. Augustine",
+          "Fernandina Beach"
+        ]
+      },
+      {
+        "city": "Fernandina Beach",
+        "slug": "fernandina-beach-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC extends its professional pressure washing services to Fernandina Beach, Florida, offering top-notch cleaning solutions for homes and businesses. Fernandina Beach's coastal environment can lead to increased buildup of salt, sand, and algae on exterior surfaces, making regular pressure washing essential for maintaining property value and appearance.\n\nOur team understands the specific challenges posed by the coastal climate and uses specialized techniques and equipment to effectively clean your property without causing damage. We offer a comprehensive range of services, including house washing, roof cleaning, deck and patio cleaning, and more. Let Jax Pro Pressure Washing, LLC help you protect and beautify your Fernandina Beach property.",
+        "localContext": "Fernandina Beach's coastal location means that properties are often exposed to salt spray and sand, requiring specialized pressure washing techniques to prevent damage.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Yulee",
+          "Amelia City"
+        ]
+      },
+      {
+        "city": "Ponte Vedra Beach",
+        "slug": "ponte-vedra-beach-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC proudly serves Ponte Vedra Beach, FL, providing expert pressure washing services to maintain the beauty and value of your property. Ponte Vedra Beach is known for its upscale homes and pristine landscapes, making it crucial to keep exteriors clean and well-maintained.\n\nOur team uses advanced pressure washing techniques and eco-friendly solutions to remove dirt, grime, and algae from various surfaces, including siding, roofs, driveways, and patios. We understand the unique needs of Ponte Vedra Beach residents and are committed to delivering exceptional results. Trust Jax Pro Pressure Washing, LLC to keep your Ponte Vedra Beach property looking its best.",
+        "localContext": "Ponte Vedra Beach's high-end properties require a pressure washing service that is detail-oriented and committed to maintaining the area's pristine aesthetic.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "Nocatee",
+          "Sawgrass"
+        ]
+      },
+      {
+        "city": "Jacksonville Beach",
+        "slug": "jacksonville-beach-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC offers professional pressure washing services in Jacksonville Beach, FL, catering to the unique needs of coastal properties. Jacksonville Beach's proximity to the ocean means that homes and businesses are often exposed to salt air, sand, and humidity, leading to increased buildup of dirt, algae, and mildew.\n\nOur team specializes in removing these contaminants safely and effectively, using environmentally friendly solutions and state-of-the-art equipment. We offer a wide range of services, including house washing, roof cleaning, deck cleaning, and more. Let Jax Pro Pressure Washing, LLC help you maintain the curb appeal of your Jacksonville Beach property.",
+        "localContext": "Jacksonville Beach's coastal environment necessitates regular pressure washing to combat the effects of salt air and humidity on exterior surfaces.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Atlantic Beach",
+          "Ponte Vedra Beach"
+        ]
+      },
+      {
+        "city": "Neptune Beach",
+        "slug": "neptune-beach-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is dedicated to providing top-quality pressure washing services in Neptune Beach, FL. As a coastal community, Neptune Beach properties are susceptible to the damaging effects of saltwater, sand, and humidity, leading to the buildup of grime, algae, and mildew on exterior surfaces.\n\nOur experienced team uses specialized techniques and eco-friendly cleaning solutions to effectively remove these contaminants without harming your property. We offer a comprehensive range of services, including house washing, deck cleaning, fence cleaning, and more. Trust Jax Pro Pressure Washing, LLC to keep your Neptune Beach home or business looking its best.",
+        "localContext": "Neptune Beach's coastal location requires specialized pressure washing techniques to effectively remove saltwater and prevent damage to exterior surfaces.",
+        "nearbyAreas": [
+          "Atlantic Beach",
+          "Jacksonville Beach",
+          "Mayport"
+        ]
+      },
+      {
+        "city": "Atlantic Beach",
+        "slug": "atlantic-beach-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is proud to offer professional pressure washing services in Atlantic Beach, FL. Situated along the Atlantic coast, Atlantic Beach properties are often exposed to harsh environmental elements such as salt air, sand, and humidity, which can lead to the accumulation of dirt, algae, and mildew on exterior surfaces.\n\nOur skilled technicians use state-of-the-art equipment and eco-friendly cleaning solutions to safely and effectively remove these contaminants, restoring the beauty and value of your property. We offer a wide range of services, including house washing, roof cleaning, driveway cleaning, and more. Let Jax Pro Pressure Washing, LLC help you maintain the pristine appearance of your Atlantic Beach home or business.",
+        "localContext": "Atlantic Beach's coastal environment necessitates regular pressure washing to combat the effects of salt air, sand, and humidity on exterior surfaces, ensuring the longevity and beauty of properties.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Mayport",
+          "Jacksonville"
+        ]
+      },
+      {
+        "city": "Middleburg",
+        "slug": "middleburg-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC is pleased to provide professional pressure washing services in Middleburg, FL. As a growing community in Clay County, Middleburg features a mix of residential and commercial properties that benefit from regular exterior cleaning.\n\nOur team uses advanced pressure washing techniques and eco-friendly solutions to remove dirt, grime, and algae from various surfaces, including siding, roofs, driveways, and patios. We understand the unique needs of Middleburg residents and are committed to delivering exceptional results. Trust Jax Pro Pressure Washing, LLC to keep your Middleburg property looking its best.",
+        "localContext": "Middleburg, with its mix of rural and suburban environments, benefits from pressure washing services that can handle a variety of surfaces and cleaning needs.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Green Cove Springs",
+          "Lake Asbury"
+        ]
+      },
+      {
+        "city": "Green Cove Springs",
+        "slug": "green-cove-springs-fl",
+        "state": "FL",
+        "content": "Jax Pro Pressure Washing, LLC extends its professional pressure washing services to Green Cove Springs, Florida, offering top-notch cleaning solutions for homes and businesses. Green Cove Springs' charming atmosphere and proximity to the St. Johns River can lead to increased buildup of algae and dirt on exterior surfaces, making regular pressure washing essential for maintaining property value and appearance.\n\nOur team understands the specific challenges posed by the local environment and uses specialized techniques and equipment to effectively clean your property without causing damage. We offer a comprehensive range of services, including house washing, roof cleaning, deck and patio cleaning, and more. Let Jax Pro Pressure Washing, LLC help you protect and beautify your Green Cove Springs property.",
+        "localContext": "Green Cove Springs, located near the St. Johns River, requires pressure washing services that can effectively remove algae and other river-related buildup from exterior surfaces.",
+        "nearbyAreas": [
+          "Middleburg",
+          "Fleming Island",
+          "Penney Farms"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Jax Pro did an amazing job cleaning the exterior of my house. It looks brand new! They were professional, efficient, and very careful with my landscaping. I highly recommend them!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "My driveway was covered in oil stains, and I didn't think it could be saved. Jax Pro came out and power washed it, and it looks fantastic! There are still a couple of very faint stains, but it's a huge improvement. Great service!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Roof Cleaning",
+        "text": "I was worried about the black streaks on my roof. Jax Pro cleaned it using their soft wash method, and it looks so much better. They were very careful and professional, and I'm very happy with the results.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Deck & Patio Cleaning",
+        "text": "Our deck was covered in algae and grime. Jax Pro cleaned it and now it looks new again. We can finally enjoy our outdoor space. They were on time and did a great job!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Fence Cleaning",
+        "text": "Jax Pro cleaned our vinyl fence, and it looks so much better. They were professional and efficient. The price was reasonable, and I would definitely use them again.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "They cleaned out all the leaves and debris from my gutters. They were on time, professional, and did a great job. I highly recommend their services.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jax Pro Pressure Washing | Jacksonville, FL",
+        "description": "Professional power washing services in Jacksonville, FL. House washing, driveway cleaning, roof cleaning & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Jax Pro Pressure Washing",
+        "description": "Learn about Jax Pro Pressure Washing - Jacksonville's trusted power washing experts. Quality service, eco-friendly solutions, and customer satisfaction."
+      },
+      "services": {
+        "title": "Jax Pro Pressure Washing Services",
+        "description": "Explore our power washing services: House washing, driveway cleaning, roof cleaning, deck & patio cleaning, and fence cleaning in Jacksonville, FL."
+      },
+      "contact": {
+        "title": "Contact Jax Pro Pressure Washing",
+        "description": "Contact Jax Pro Pressure Washing for a free quote on your power washing needs in Jacksonville, FL. Call us today!"
+      },
+      "reviews": {
+        "title": "Jax Pro Pressure Washing Reviews",
+        "description": "Read reviews from satisfied Jax Pro Pressure Washing customers in Jacksonville, FL. See why we're the trusted choice for exterior cleaning."
+      },
+      "service-areas": {
+        "title": "Jax Pro Pressure Washing Service Areas",
+        "description": "Jax Pro Pressure Washing provides service to Jacksonville, St. Augustine, Orange Park and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp",
+      "deck-patio-cleaning": "/images/service-deck-patio-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-cleaning": {
+        "src": "/images/service-deck-patio-cleaning.webp",
+        "srcset": "/images/service-deck-patio-cleaning-400w.webp 400w, /images/service-deck-patio-cleaning-800w.webp 800w, /images/service-deck-patio-cleaning-1200w.webp 1200w, /images/service-deck-patio-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
